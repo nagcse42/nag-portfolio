@@ -1,0 +1,19 @@
+.header {
+  font-weight: bold;
+}
+.tableHeader {
+  font-size: 1.15rem;
+  font-weight: bold;
+  padding: 0.5rem;
+  color: #14b0e0;
+}
+
+.tableRow {
+  font-family: math;
+  font-size: 1rem;
+  color: #403939;
+  font-weight: bold;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-bottom: 2px solid black;
+}
